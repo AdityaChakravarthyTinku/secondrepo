@@ -1,0 +1,1 @@
+This is another txt file to text cloning using ssh key from gitserver to local drive
